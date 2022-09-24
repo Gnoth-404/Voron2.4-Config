@@ -28,9 +28,9 @@ SSR input → H-BED (See markings on back of board)\
 Hotend heater → HE0\
 Controller fan → HE1\
 Single-colour 24V LED strip → HE2
+:coffin:	
 
-
-## Required jumper settings
+## :white_check_mark: Required jumper settings
 Endstop - PWR → VIN\
 SPI/UART → UART configuration (see back of board)\
 Driver DIAG → No jumpers installed\
@@ -54,6 +54,7 @@ ran with 5V, 12V, or 24V.
 
 
 ##👨🏻‍💻 Other links
+
 [Voron-Design](https://github.com/VoronDesign/Voron-2)\
-[Super-Slicer](https://github.com/supermerill/SuperSlicer)
+[Super-Slicer](https://github.com/supermerill/SuperSlicer)\
 [MKS Monster8 Voron config by makerbase](https://github.com/makerbase-mks/MKS-Monster8/blob/main/klipper%20firmware/Voron%202.4%20config/printer.cfg)
