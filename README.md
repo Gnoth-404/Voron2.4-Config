@@ -35,8 +35,6 @@ Endstop - PWR → VIN\
 SPI/UART → UART configuration (see back of board)\
 Driver DIAG → No jumpers installed\
 Drive IC - PWR → 5V
-
-## jumper settings
 USB-PWR → OFF
 
 ## Other jumper settings
