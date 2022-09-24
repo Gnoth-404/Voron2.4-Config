@@ -53,7 +53,7 @@ ran with 5V, 12V, or 24V.
 ```
 
 
-##👨🏻‍💻 Other links
+## 👨🏻‍💻 Other links
 
 [Voron-Design](https://github.com/VoronDesign/Voron-2)\
 [Super-Slicer](https://github.com/supermerill/SuperSlicer)\
